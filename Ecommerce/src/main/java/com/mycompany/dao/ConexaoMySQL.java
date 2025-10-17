@@ -13,7 +13,7 @@ public class ConexaoMySQL implements ConexaoBD {
   
     private static final String URL = "jdbc:mysql://localhost:3306/ecommerce";
     private static final String USUARIO = "root";
-    private static final String SENHA = "Spray-gc-robocop10."; 
+    private static final String SENHA = "CATOLICA"; 
 
     @Override
     public Connection obterConexao() throws Exception {
